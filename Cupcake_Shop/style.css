@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Antic+Slab&family=Montserrat&display=swap');
+
+p, h3{
+    color: #28536B;
+    display: inline;
+    font-family: 'Antic Slab', serif;
+}
+h2{
+    color: #7EA8BE;
+    display: inline;
+    font-family: 'Montserrat', sans-serif;
+}
+body {background-color: #F6F0ED;}
+a, a:visited, a:hover, a:active {
+    color: inherit;
+}
+img {
+    float: right;
+    max-width:20%;
+    height:auto;
+}
+#my{
+    zoom: 200%;
+}
+nav{
+    position: fixed;
+}
