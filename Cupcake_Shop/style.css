@@ -24,4 +24,7 @@ img {
 }
 nav{
     position: fixed;
+    background-color: #F6F0ED;
+    z-index:1;
+    top: 0;
 }
